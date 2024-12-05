@@ -1,4 +1,4 @@
-FROM hshar/webapp
+FROM ubuntu
 
 COPY . /var/www/html
 
